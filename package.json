@@ -1,0 +1,11 @@
+{
+  "name": "bip39",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Matheus Mariano <vmatheus.mariano@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bip39": "^2.4.0"
+  }
+}
